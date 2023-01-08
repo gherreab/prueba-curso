@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+__pycache__
+*.apk
+.env
+.env.dev
+.env.qa
+.env.prod
+.png
+Behave/utils/users.json
